@@ -1,0 +1,23 @@
+@import "tailwindcss";
+.creepster-regular {
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .asset-regular {
+    font-family: "Asset", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .mountains-of-christmas-regular {
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .mountains-of-christmas-bold {
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
